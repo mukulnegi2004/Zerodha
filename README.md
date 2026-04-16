@@ -1,6 +1,6 @@
-# Investify – Full Stack Stock Trading Platform
+# Zerodha – Full Stack Stock Trading Platform
 
-Investify is a **full-stack stock trading platform inspired by Zerodha**, built using the **MERN Stack**. It includes a public landing website, secure authentication, and a protected dashboard where users can manage stocks, wallet balance, and trading activities.
+Zerodha is a **full-stack stock trading platform inspired by Zerodha**, built using the **MERN Stack**. It includes a public landing website, secure authentication, and a protected dashboard where users can manage stocks, wallet balance, and trading activities.
 
 > ⚠️ **Deployment Status:** This project is currently not deployed publicly. I plan to launch it professionally in the future with a custom domain and complete production setup.
 
@@ -229,11 +229,12 @@ npm run dev
 
 ---
 
-## 👨‍💻 Author
+## 📬 Connect with Me
 
-**Mukul Negi**
+- 💼 [GitHub](https://github.com/mukulnegi2004)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
+- 📫 Email: mannunegi126@gmail.com
 
-If you liked this project, give it a ⭐ on GitHub.
+---
 
-```
-```
+⭐ If you like this project, feel free to star it and give feedback!
